@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Scribe: The Literature Society of Hindu College, UoD
+title: Scribe: The Literature Society of Hindu College
 ---
 
 Welcome to the official website of the Literary Society.
